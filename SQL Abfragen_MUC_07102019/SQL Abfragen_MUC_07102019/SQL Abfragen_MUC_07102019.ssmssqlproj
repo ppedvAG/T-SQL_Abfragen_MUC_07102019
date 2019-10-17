@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Abfragen_MUC_07102019">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="HV-SQL2019:HV-SQL2019\Administrator">
+          <Created>2019-10-07T09:36:41.2732712+02:00</Created>
+          <Type>SQL</Type>
+          <Server>HV-SQL2019</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>graphdemo</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="!_Recap.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>!_Recap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0001_Kommentare.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0001_Kommentare.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_Funktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0002_Funktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_Einfache SELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_Einfache SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_NULL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_NULL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_LIKE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0005_LIKE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_JOIN.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0006_JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Group by.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_Group by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_tempTabellen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_tempTabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_VIews.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_VIews.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0010_UNION_EXCEPT_INTERSECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0010_UNION_EXCEPT_INTERSECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_SubQueries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0011_SubQueries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0012_INS_UP_DEL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0012_INS_UP_DEL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0013_Variablen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0013_Variablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0014_CASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0014_CASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0015_CREATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0015_CREATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0016_Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0016_Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0017_IF.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0017_IF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0018_WHILE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0018_WHILE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0019_Functions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0019_Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="II_ReCap.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>II_ReCap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>instnwnd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="XX_Logischer Fluss.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>XX_Logischer Fluss.sql</FullPath>
+        </FileNode>
+        <FileNode Name="XX_Transactions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HV-SQL2019:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HV-SQL2019</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>XX_Transactions.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="SQL Abfragen_MUC_07102019.ssmssqlproj">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Abfragen_MUC_07102019.ssmssqlproj</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
